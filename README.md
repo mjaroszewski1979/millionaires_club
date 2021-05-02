@@ -3,16 +3,12 @@
 --------------------------------------------------
 
 ### Features
-* Fully responsive navigation menu &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/tablet.png">
-* Embedded Font Awesome icon collection 
-* Implementing techniques of inserting videos in an HTML document such as the new HTML5 video tag &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/video.png">
-* CSS Flexbox applied to simplify complex layout design
+* Fully responsive web design &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/tablet.png">
+* Embedded Font Awesome icon  
 * Advanced HTML and CSS minification process aims to reduce webpage loading speed &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
 * CSS custom properties for fast and forward-looking design 
-* Using login_user function to create a session that will persist as the user stays logged in, which will allow to view protected pages &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/login.png">
-* The SQLAlchemy Object Relational Mapper to associate user-defined Python classes with database tables
-* Moving the email send function to a background thread to avoid unnecessary delays during request handling &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/email.png">
-* Flashing error messages back to users when something goes wrong
+* Moving the fetching data function to a background thread to avoid unnecessary delays during request handling &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/email.png">
+* CSS Flexbox applied to simplify complex layout patterns
 
 
 -------------------------------------------------
