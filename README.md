@@ -1,4 +1,4 @@
-## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/trend.png">  &nbsp; Millionaires Club
+## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/money.png">  &nbsp; Millionaires Club
 ### This is a Python application powered by FastAPI - high-performance web framework - to reduce about 40% of human (developer) induced errors. Its main function is to display current CPI readings for all countries included in Econdb's macroeconomic database. After receiving user input, application is gaining access to particular Consumer Price Index historical data by utilizing pandas-datareader. The latest reading is being compared with 12-month average calculated using Numpy's mean function. The result is a statistical estimate and it can be helpful in measuring of inflation. For the world's top 5 largest economies website provides information on actual changes in the prices of goods and services.
 --------------------------------------------------
 
