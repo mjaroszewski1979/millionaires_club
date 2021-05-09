@@ -15,7 +15,7 @@
 
 -------------------------------------------------
 
- ![caption](https://github.com/mjaroszewski1979/millionaires_club/blob/main/millionaires_club.gif)
+ ![caption](https://github.com/mjaroszewski1979/millionaires_club/blob/main/millionaires_club1.gif)
 
   
   Live | Code | Technologies
